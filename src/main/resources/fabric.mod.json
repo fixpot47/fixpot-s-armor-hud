@@ -20,9 +20,9 @@
   },
   "mixins": ["fixpots-armor-hud.mixins.json"],
   "depends": {
-    "minecraft": ">=26.2",
+    "minecraft": "~26.3",
     "fabricloader": ">=0.19",
     "fabric-api": "*",
-    "fixlib": ">=2.1.1"
+    "fixlib": ">=2.2.0"
   }
 }

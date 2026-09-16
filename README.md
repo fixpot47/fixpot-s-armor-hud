@@ -1,8 +1,8 @@
 # fixpot's Armor HUD
 
-A minimalistic, vanilla-like armor HUD for **Minecraft 26.2 Fabric**.
+A minimalistic, vanilla-like armor HUD for **Minecraft 26.3 Fabric**.
 
-This project is based on **uku's Armor HUD 0.12.0** / the original Armor HUD by BerdinskiyBear, and is maintained by **fixpot47**.
+This project is based on **uku's Armor HUD 0.13.0** / the original Armor HUD by BerdinskiyBear, and is maintained by **fixpot47**.
 
 ## Features
 
@@ -17,9 +17,9 @@ This project is based on **uku's Armor HUD 0.12.0** / the original Armor HUD by 
 
 ## Requirements
 
-- Minecraft **26.2**
+- Minecraft **26.3**
 - Fabric Loader **0.19+**
-- **FixLib 2.1.1+**
+- **FixLib 2.2.0+**
 - Fabric API
 
 ## Build
@@ -34,7 +34,7 @@ The mod JAR will be generated in `build/libs/`.
 
 ## Buy us a Cookie! 🍪
 
-If you like the mod and want to support future updates:
+If you like the mod and want to support future updates, you can support us here:
 
 [Support us on DonationAlerts](https://www.donationalerts.com/r/fixpot47)
 

@@ -23,5 +23,5 @@ jobs:
           cp "$(find build/libs -maxdepth 1 -type f -name 'fixpots-armor-hud-*.jar' ! -name '*-sources.jar' | head -n 1)" dist/fixpots-armor-hud.jar
       - uses: actions/upload-artifact@v4
         with:
-          name: fixpots-armor-hud-26.2
+          name: fixpots-armor-hud-1.1.0-mc26.3
           path: dist/fixpots-armor-hud.jar

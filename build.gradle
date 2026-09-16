@@ -23,7 +23,7 @@ dependencies {
     implementation "net.fabricmc:fabric-loader:${project.loader_version}"
     implementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_api_version}"
 
-    // FixLib 2.1.1 preserves the ukuLib Java API. We compile against the
+    // FixLib 2.2.0 preserves the ukuLib Java API. We compile against the
     // upstream API artifact while the runtime dependency is FixLib.
     compileOnly "net.uku3lig:ukulib-fabric:${project.ukulib_api_version}"
 
